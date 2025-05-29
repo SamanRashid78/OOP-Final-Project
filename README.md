@@ -37,7 +37,8 @@ This is a simple console-based C++ project designed as part of the Object-Orient
 |--------------------|---------------------------------------------|
 | `OOP.cpp`          | Main source code file (C++)                 |
 | `ProjectProposal.pdf` | Project proposal (uploaded to GitHub and Drive) |
-| `Report.md`        | Final project report in Markdown format     |
+| `Report.md`           |Final project report in Markdown format|
+|`Diagram.png`     | Diagram for report|
 | `README.md`        | This file                                   |
 
 ---
