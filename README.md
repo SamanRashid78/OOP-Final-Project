@@ -23,7 +23,7 @@ This is a simple console-based C++ project designed as part of the Object-Orient
 - View announcements
 - View quiz scores
 
-### 🛠 System Features
+### System Features
 - Role-based login system (Educator or Student)
 - Hidden password input during login/signup
 - Course-based quiz and announcement management
