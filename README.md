@@ -1,5 +1,5 @@
 # OOP-Final-Project
-# OOP Final Project – Quiz & Announcement System
+# Learning Management System
 
 This is a simple console-based C++ project designed as part of the Object-Oriented Programming (OOP) course. It allows educators to create quizzes and post announcements, while students can register, take quizzes, and view announcements. The system uses file handling for saving and loading data.
 
